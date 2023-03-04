@@ -26,4 +26,4 @@ jobs:
         with:
           name: Plugin
           path: |
-            ./Messenger/
+            ./.vs/bin/Debug
